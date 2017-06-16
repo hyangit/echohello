@@ -5,7 +5,7 @@ import (
 	"strconv"
 
 	"github.com/labstack/echo"
-	"hyan.com/echohello/singleton"
+	"hyangit/echohello/singleton"
 )
 
 // Hello handler

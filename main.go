@@ -3,8 +3,8 @@ package main
 import (
 	"net/http"
 
-	"hyan.com/echohello/hello"
-	"hyan.com/echohello/singleton"
+	"hyangit/echohello/hello"
+	"hyangit/echohello/singleton"
 
 	"github.com/facebookgo/grace/gracehttp"
 	"github.com/labstack/echo"
